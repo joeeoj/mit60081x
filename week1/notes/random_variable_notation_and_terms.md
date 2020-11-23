@@ -6,6 +6,8 @@ Specific instantiations will be denoted with lower case letters
 
 `W` probability table:
 
+Another way to think of it: _W as the "world" of possibilities_
+
 | Ω     | ℙ   |
 | ----- | --- |
 | sunny | 1/2 |
@@ -38,3 +40,5 @@ In general for a r.v. X, P<sub>X</sub> = (probability table = probability mass f
 0 ≤ P<sub>X</sub><sup>𝑥</sup> ≤ 1
 
 and the sum of all possible outcomes of P<sub>X</sub><sup>𝑥</sup> = 1
+
+_Function as a map_

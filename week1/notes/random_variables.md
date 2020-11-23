@@ -61,3 +61,5 @@ or
 ## Addendum
 
 A “random variable" really is just reassigning/relabeling what the values are for the possible outcomes in the underlying probability space.
+
+![Explanation using a picture](random_variable_table_explanation.png)
